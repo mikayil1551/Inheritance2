@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe.config
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\Inheritance2\Inheritance2\bin\Debug\Inheritance2.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\Inheritance2\Inheritance2\bin\Debug\Inheritance2.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\Inheritance2\Inheritance2\obj\Debug\Inheritance2.Form1.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\Inheritance2\Inheritance2\obj\Debug\Inheritance2.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\Inheritance2\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\Inheritance2\Inheritance2\obj\Debug\Inheritance2.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.26.2021\Inheritance2\Inheritance2\obj\Debug\Inheritance2.pdb
